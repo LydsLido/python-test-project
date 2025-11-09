@@ -1,2 +1,2 @@
 # python-test-project
-Test Project while learning python
+Test Project created by Lydia for learning python
